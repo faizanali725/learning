@@ -1,0 +1,141 @@
+{
+    "doctors": {
+        "101": {
+            "Doctor_id": 101,
+            "Name": "Azeem Ahmad",
+            "Age": 45,
+            "Gender": "Male",
+            "Specialization": "Dentist",
+            "Phone_No": "98765432345678",
+            "Email": "azeemahmad234@gmail.com",
+            "Salary": 90000.0,
+            "Department": "Dental"
+        },
+        "102": {
+            "Doctor_id": 102,
+            "Name": "Asim Ali",
+            "Age": 34,
+            "Gender": "Male",
+            "Specialization": "Dermatologist",
+            "Phone_No": "09646789342",
+            "Email": "asimalikhan667@gmail.com",
+            "Salary": 80000.0,
+            "Department": "Dermatology"
+        },
+        "103": {
+            "Doctor_id": 103,
+            "Name": "Arfat Minhas",
+            "Age": 25,
+            "Gender": "Male",
+            "Specialization": "Neurologist",
+            "Phone_No": "99765345678",
+            "Email": "muhammadarfat770@gmail.com",
+            "Salary": 75000.0,
+            "Department": "Neurology"
+        },
+        "104": {
+            "Doctor_id": 104,
+            "Name": "Abiha Parveen",
+            "Age": 29,
+            "Gender": "Female",
+            "Specialization": "Gynecologist",
+            "Phone_No": "03084567888",
+            "Email": "abihaparveen990@gmail.com",
+            "Salary": 100000.0,
+            "Department": "Gynecology"
+        }
+    },
+    "employees": {
+        "220": {
+            "Employee_ID": 220,
+            "Name": "Ashraf Ali",
+            "Age": 34,
+            "Gender": "Male",
+            "Job_title": "Nurse",
+            "Phone": "456789987654",
+            "Email": "ashrafali667@gmail.com",
+            "Salary": 30000.0,
+            "Department": "Emergency"
+        },
+        "200": {
+            "Employee_ID": 200,
+            "Name": "Momina Shakir",
+            "Age": 45,
+            "Gender": "Female",
+            "Job_title": "Nurse",
+            "Phone": "0898765432",
+            "Email": "mominashakir786@gmail.com",
+            "Salary": 30000.0,
+            "Department": "Gynecology"
+        },
+        "206": {
+            "Employee_ID": 206,
+            "Name": "Ashir Ahmad",
+            "Age": 23,
+            "Gender": "Male",
+            "Job_title": "Supply Clerks",
+            "Phone": "09876543345",
+            "Email": "ashirmirzapk890@gmail.com",
+            "Salary": 40000.0,
+            "Department": "Emergency"
+        }
+    },
+    "patients": {
+        "110": {
+            "Patient_ID": 110,
+            "Name": "Azhan Ali",
+            "Age": 20,
+            "Gender": "Male",
+            "Phone": "8976543234567",
+            "Email": "azhanali7789@gmail.com",
+            "Address": "Karachi",
+            "Joining_Date": "20-11-2025",
+            "Discharge_Date": null,
+            "Disease": "Maleria",
+            "Doctor_ID": 101,
+            "Room_Number": 503
+        },
+        "509": {
+            "Patient_ID": 509,
+            "Name": "Uzair Ahmad",
+            "Age": 14,
+            "Gender": "Male",
+            "Phone": "34567890678",
+            "Email": "uzairfather77@gmail.com",
+            "Address": "Lahore",
+            "Joining_Date": "03-09-2024",
+            "Discharge_Date": null,
+            "Disease": "Asthma",
+            "Doctor_ID": 104,
+            "Room_Number": 500
+        },
+        "400": {
+            "Patient_ID": 400,
+            "Name": "Asif Ali",
+            "Age": 34,
+            "Gender": "Male",
+            "Phone": "0987654333",
+            "Email": "asifali@gmail.com",
+            "Address": "Multan",
+            "Joining_Date": "02-09-2026",
+            "Discharge_Date": null,
+            "Disease": "Skin Issue",
+            "Doctor_ID": 102,
+            "Room_Number": 309
+        },
+        "207": {
+            "Patient_ID": 207,
+            "Name": "Urooj Fatima",
+            "Age": 34,
+            "Gender": "Female",
+            "Phone": "8765432345",
+            "Email": "uroojkhan456@gmail.com",
+            "Address": "Pakpattan",
+            "Joining_Date": "05-03-2026",
+            "Discharge_Date": null,
+            "Disease": "Pregnant",
+            "Doctor_ID": 104,
+            "Room_Number": 123
+        }
+    }
+}

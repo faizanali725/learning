@@ -1,0 +1,10 @@
+Hello my name is Faizan Ali.
+I like coding.
+i am from pakistan.
+
+This tutorial breaks down the essential python file modes needed to interact with external data.
+
+Whether you are a beginner or brushing up on your coding skills, 
+understanding how to handle files is a fundamental part of writing practical scripts. 
+
+You will see exactly how the built-in functions behave when you need to store or retrieve information from your machine.
